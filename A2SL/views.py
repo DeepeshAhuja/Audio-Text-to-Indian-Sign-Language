@@ -28,7 +28,7 @@ def animation_view(request):
         headers = {
                 "content-type": "application/x-www-form-urlencoded",
                 "Accept-Encoding": "application/gzip",
-                "X-RapidAPI-Key": "a88504aef0msh3d8773426b85d0fp1a5345jsnafbfd29d5530",
+                "X-RapidAPI-Key": "<your api key>",
                 "X-RapidAPI-Host": "google-translate1.p.rapidapi.com"
             }
 
